@@ -55,6 +55,6 @@ python warThread.py *times*
 * WarOne: **106.88s**
 * WarThread: **13.61s**
 
-###Just for fun warThread
+### Just for fun warThread
 * 50000: **66.38s**
 * 100000: **131.56s**
