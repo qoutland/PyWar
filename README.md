@@ -51,3 +51,12 @@ python warThread.py *times*
 ### Bonus
 * 50000: **66.38s**
 * 100000: **131.56s**
+
+## War Simulations in C++
+The same code written in C++ to test compiled vs interpretted code
+
+## **Intel(R) Xeon(R) CPU @ 2.00GHz, 1 Core**
+
+| Type | 100 sims | 1000 sims | 5000 sims | 10000 sims | 100000 sims |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| War | **0.03 s** | **.36 s** | **1.97 s** | **4.86 s** | **56.118 s** |
